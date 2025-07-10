@@ -1,0 +1,28 @@
+body {
+  background-color: gainsboro;
+}
+
+div {
+  width: 400px;
+  background-color: white;
+  margin: 20px auto;
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 16px;
+}
+
+li {
+  text-align: center;
+  background-color: lavender;
+  padding: 8px;
+  margin: 8px;
+}
