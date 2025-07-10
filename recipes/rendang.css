@@ -1,0 +1,23 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: ghostwhite;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 40px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 40px;
+}
+
+a {
+  display: block;
+  text-align: center;
+  border: 1px solid black;
+  padding: 16px;
+  margin: 0 420px 0 420px;
+}
